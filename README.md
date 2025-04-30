@@ -3,8 +3,6 @@ This repository contains the source code for a fully responsive e-commerce websi
 
 Link to run :-
 https://saurabhhkumarrr.github.io/E-SHOP/
-https://saurabhhkumarrr.github.io/E-SHOP/
-https://saurabhhkumarrr.github.io/E-SHOP/
 
 #--Features:
 Responsive Design: Fully adaptable to different screen sizes using Bootstrap framework.
